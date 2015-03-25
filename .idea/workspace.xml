@@ -1,14 +1,50 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="97f4a4b5-bf90-47ac-a7b7-1295df2553b2" name="Default" comment="" />
-    <ignored path="WebDriver.iws" />
-    <ignored path=".idea/workspace.xml" />
-    <ignored path="$PROJECT_DIR$/out/" />
-    <ignored path="$PROJECT_DIR$/target/" />
-    <ignored path="$PROJECT_DIR$/../HotwireTests/target/" />
-    <ignored path="$PROJECT_DIR$/../DomesticPageObject/target/" />
-    <ignored path=".idea/dataSources.local.xml" />
+    <list default="true" id="97f4a4b5-bf90-47ac-a7b7-1295df2553b2" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../DomesticPageObject/.idea/vcs.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../DomesticPageObject/.idea/workspace.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../DomesticPageObject/target/MANIFEST.MF" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../DomesticPageObject/target/classes/com/hotwire/AbstractPage.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../DomesticPageObject/target/classes/com/hotwire/HomePage.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../HotwireTests/.idea/libraries/Maven__com_google_guava_guava_18_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../HotwireTests/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_3_2.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../HotwireTests/.idea/vcs.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../HotwireTests/.idea/workspace.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../HotwireTests/target/HotwireTests-1.0-SNAPSHOT.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../HotwireTests/target/MANIFEST.MF" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../HotwireTests/target/classes/com/application/AbstractApplication.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../HotwireTests/target/classes/com/application/AbstractApplicationWebApp.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../HotwireTests/target/classes/com/application/ApplicationWebApp.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../HotwireTests/target/classes/com/info/all/hotel/HotelInfo.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../HotwireTests/target/classes/com/purchase/AbstractPurchase.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../HotwireTests/target/classes/com/purchase/AbstractPurchaseWebApp.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../HotwireTests/target/classes/com/purchase/DelegatePurchaseWebApp.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../HotwireTests/target/classes/com/purchase/HotelPurchaseWebApp.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../HotwireTests/target/classes/com/purchase/PurchaseTemplateWebApp.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../HotwireTests/target/classes/com/purchase/car/CarPurchaseWebApp.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../HotwireTests/target/classes/com/purchase/hotel/HotelPurchaseWebApp.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../HotwireTests/target/maven-archiver/pom.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../HotwireTests/target/test-classes/Test.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../DomesticPageObject/DomesticPageObject.iml" afterPath="$PROJECT_DIR$/../DomesticPageObject/DomesticPageObject.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../HotwireTests/src/main/java/com/purchase/hotel/HotelPurchaseWebApp.java" afterPath="$PROJECT_DIR$/../HotwireTests/src/main/java/com/purchase/hotel/HotelPurchaseWebApp.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../HotwireTests/HotwireTests.iml" afterPath="$PROJECT_DIR$/../HotwireTests/HotwireTests.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
+    <manually-removed-from-ignored>
+      <directory path="$PROJECT_DIR$/out/" />
+      <directory path="../../../../.idea/" />
+      <directory path=".idea/" />
+      <directory path="../../../../target/" />
+      <directory path="$PROJECT_DIR$/../DomesticPageObject/target/" />
+      <directory path="$PROJECT_DIR$/../HotwireTests/target/" />
+      <directory path="../HotwireTests/target/" />
+      <directory path="$PROJECT_DIR$/target/" />
+      <directory path="target/" />
+      <directory path="../DomesticPageObject/target/" />
+    </manually-removed-from-ignored>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,7 +52,7 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="ChangesViewManager" flattened_view="false" show_ignored="false" />
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
   </component>
@@ -32,8 +68,8 @@
       <file leaf-file-name="HotelPurchaseWebApp.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../HotwireTests/src/main/java/com/purchase/hotel/HotelPurchaseWebApp.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.13568985" vertical-offset="0" max-vertical-offset="877">
-              <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+            <state vertical-scroll-proportion="0.13530928" vertical-offset="0" max-vertical-offset="776">
+              <caret line="7" column="31" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
               <folding />
             </state>
           </provider>
@@ -42,7 +78,7 @@
       <file leaf-file-name="AbstractPurchaseWebApp.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../HotwireTests/src/main/java/com/purchase/AbstractPurchaseWebApp.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="85" max-vertical-offset="272">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="240">
               <caret line="5" column="61" selection-start-line="5" selection-start-column="61" selection-end-line="5" selection-end-column="61" />
               <folding />
             </state>
@@ -52,20 +88,9 @@
       <file leaf-file-name="DelegatePurchaseWebApp.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../HotwireTests/src/main/java/com/purchase/DelegatePurchaseWebApp.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="124" max-vertical-offset="1003">
+            <state vertical-scroll-proportion="0.0" vertical-offset="480" max-vertical-offset="840">
               <caret line="41" column="16" selection-start-line="41" selection-start-column="16" selection-end-line="41" selection-end-column="16" />
-              <folding>
-                <element signature="e#413#414#0" expanded="false" />
-                <element signature="e#455#456#0" expanded="false" />
-                <element signature="e#655#656#0" expanded="false" />
-                <element signature="e#695#696#0" expanded="false" />
-                <element signature="e#879#880#0" expanded="false" />
-                <element signature="e#919#920#0" expanded="false" />
-                <element signature="e#955#956#0" expanded="false" />
-                <element signature="e#987#988#0" expanded="false" />
-                <element signature="e#1124#1125#0" expanded="false" />
-                <element signature="e#1169#1170#0" expanded="false" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
@@ -73,7 +98,7 @@
       <file leaf-file-name="CarPurchaseWebApp.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../HotwireTests/src/main/java/com/purchase/car/CarPurchaseWebApp.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="187" max-vertical-offset="374">
+            <state vertical-scroll-proportion="0.0" vertical-offset="135" max-vertical-offset="270">
               <caret line="11" column="4" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="4" />
               <folding />
             </state>
@@ -83,7 +108,7 @@
       <file leaf-file-name="spring-config.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../HotwireTests/src/main/resources/spring-config.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="136" max-vertical-offset="272">
+            <state vertical-scroll-proportion="0.0" vertical-offset="120" max-vertical-offset="240">
               <caret line="8" column="39" selection-start-line="8" selection-start-column="39" selection-end-line="8" selection-end-column="39" />
               <folding />
             </state>
@@ -93,7 +118,7 @@
       <file leaf-file-name="spring-application-config.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../HotwireTests/src/main/resources/spring-application-config.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="136" max-vertical-offset="289">
+            <state vertical-scroll-proportion="0.0" vertical-offset="120" max-vertical-offset="255">
               <caret line="8" column="66" selection-start-line="8" selection-start-column="66" selection-end-line="8" selection-end-column="66" />
               <folding />
             </state>
@@ -103,7 +128,7 @@
       <file leaf-file-name="spring-purchase-config.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../HotwireTests/src/main/resources/spring-purchase-config.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="153" max-vertical-offset="425">
+            <state vertical-scroll-proportion="0.0" vertical-offset="135" max-vertical-offset="375">
               <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
               <folding />
             </state>
@@ -113,7 +138,7 @@
       <file leaf-file-name="AbstractPurchase.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../HotwireTests/src/main/java/com/purchase/AbstractPurchase.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="102" max-vertical-offset="289">
+            <state vertical-scroll-proportion="0.0" vertical-offset="90" max-vertical-offset="255">
               <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
               <folding />
             </state>
@@ -123,24 +148,22 @@
       <file leaf-file-name="PurchaseTemplateWebApp.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../HotwireTests/src/main/java/com/purchase/PurchaseTemplateWebApp.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="119" max-vertical-offset="408">
+            <state vertical-scroll-proportion="0.0" vertical-offset="105" max-vertical-offset="300">
               <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Test.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../HotwireTests/src/test/java/Test.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="368" max-vertical-offset="986">
-              <caret line="30" column="14" selection-start-line="30" selection-start-column="14" selection-end-line="30" selection-end-column="14" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
     </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../HotwireTests" />
+    <option name="FORCE_PUSH_ALLOWED" value="true" />
+    <option name="PUSH_TAGS">
+      <GitPushTagMode />
+    </option>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -191,24 +214,6 @@
           <option name="myItemId" value="" />
           <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
         </PATH_ELEMENT>
-        <PATH_ELEMENT>
-          <option name="myItemId" value="WebDriver" />
-          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
-        </PATH_ELEMENT>
-      </PATH>
-      <PATH>
-        <PATH_ELEMENT>
-          <option name="myItemId" value="" />
-          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
-        </PATH_ELEMENT>
-        <PATH_ELEMENT>
-          <option name="myItemId" value="WebDriver" />
-          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
-        </PATH_ELEMENT>
-        <PATH_ELEMENT>
-          <option name="myItemId" value="Lifecycle" />
-          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$LifecycleNode" />
-        </PATH_ELEMENT>
       </PATH>
       <PATH>
         <PATH_ELEMENT>
@@ -227,30 +232,6 @@
         </PATH_ELEMENT>
         <PATH_ELEMENT>
           <option name="myItemId" value="HotwireTests" />
-          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
-        </PATH_ELEMENT>
-        <PATH_ELEMENT>
-          <option name="myItemId" value="Lifecycle" />
-          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$LifecycleNode" />
-        </PATH_ELEMENT>
-      </PATH>
-      <PATH>
-        <PATH_ELEMENT>
-          <option name="myItemId" value="" />
-          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
-        </PATH_ELEMENT>
-        <PATH_ELEMENT>
-          <option name="myItemId" value="DomesticPageObject" />
-          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
-        </PATH_ELEMENT>
-      </PATH>
-      <PATH>
-        <PATH_ELEMENT>
-          <option name="myItemId" value="" />
-          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
-        </PATH_ELEMENT>
-        <PATH_ELEMENT>
-          <option name="myItemId" value="DomesticPageObject" />
           <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
         </PATH_ELEMENT>
         <PATH_ELEMENT>
@@ -264,21 +245,19 @@
     <option name="skipTests" value="true" />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-4" />
-    <option name="y" value="-4" />
-    <option name="width" value="1928" />
-    <option name="height" value="1054" />
+    <option name="width" value="1440" />
+    <option name="height" value="900" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
     <OptionsSetting value="true" id="Remove" />
     <OptionsSetting value="true" id="Checkout" />
-    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="false" id="Update" />
     <OptionsSetting value="true" id="Status" />
     <OptionsSetting value="true" id="Edit" />
     <OptionsSetting value="true" id="Undo Check Out" />
     <OptionsSetting value="true" id="Get Latest Version" />
-    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="2" id="Add" />
     <ConfirmationsSetting value="0" id="Remove" />
   </component>
   <component name="ProjectView">
@@ -294,16 +273,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope">
-        <subPane subId="Tests">
-          <PATH>
-            <PATH_ELEMENT USER_OBJECT="Root">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
-      </pane>
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -319,78 +288,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="WebDriver" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="WebDriver" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="WebDriver" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="WebDriver" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="WebDriver" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="resources" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="WebDriver" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="WebDriver" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="WebDriver" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="HotwireTests" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -406,14 +303,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -432,10 +321,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="resources" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -494,171 +379,15 @@
               <option name="myItemId" value="com" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="purchase" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="hotel" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
           </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope">
+        <subPane subId="Tests">
           <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="WebDriver" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="HotwireTests" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="com" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="purchase" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="car" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="WebDriver" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="HotwireTests" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="com" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="all" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="WebDriver" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="HotwireTests" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="com" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="WebDriver" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="DomesticPageObject" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="WebDriver" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="DomesticPageObject" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="WebDriver" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="DomesticPageObject" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="WebDriver" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="DomesticPageObject" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="hotwire" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
@@ -673,7 +402,7 @@
     <property name="MemberChooser.showClasses" value="true" />
     <property name="MemberChooser.copyJavadoc" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../DomesticPageObject/pom.xml" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/target" />
     <property name="dynamic.classpath" value="false" />
     <property name="options.lastSelected" value="preferences.editor" />
     <property name="options.splitter.main.proportions" value="0.3" />
@@ -696,14 +425,14 @@
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="HotwireTests" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ALTERNATIVE_JRE_PATH" value="" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
       <option name="TEST_OBJECT" value="package" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="VM_PARAMETERS" value="-ea -noverify" />
+      <option name="PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="file://$MODULE_DIR$" />
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <option name="TEST_SEARCH_SCOPE">
@@ -719,51 +448,6 @@
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Debug" />
       <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
-    <configuration default="true" type="JUnit" factoryName="JUnit">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-      <method />
-    </configuration>
-    <configuration default="true" type="Remote" factoryName="Remote">
-      <option name="USE_SOCKET_TRANSPORT" value="true" />
-      <option name="SERVER_MODE" value="false" />
-      <option name="SHMEM_ADDRESS" value="javadebug" />
-      <option name="HOST" value="localhost" />
-      <option name="PORT" value="5005" />
-      <method />
-    </configuration>
-    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
-      <module name="" />
-      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
-      <option name="PROGRAM_PARAMETERS" />
-      <method />
-    </configuration>
-    <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
-      <module name="" />
-      <setting name="vmparams" value="" />
-      <setting name="cmdLine" value="run-app" />
-      <setting name="depsClasspath" value="false" />
-      <setting name="passParentEnv" value="true" />
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <setting name="launchBrowser" value="false" />
       <method />
     </configuration>
     <configuration default="true" type="MavenRunConfiguration" factoryName="Maven">
@@ -788,24 +472,15 @@
       </MavenSettings>
       <method />
     </configuration>
-    <configuration default="true" type="JarApplication" factoryName="JAR Application">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <envs />
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
       <method />
     </configuration>
-    <configuration default="true" type="Application" factoryName="Application">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="" />
-      <envs />
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
       <method />
     </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
@@ -836,26 +511,47 @@
       <listeners />
       <method />
     </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
       <node-options />
       <gulpfile />
       <tasks />
+      <arguments />
       <pass-parent-envs>true</pass-parent-envs>
       <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="FlexUnitRunConfigurationType" factoryName="FlexUnit" appDescriptorForEmulator="Android" class_name="" emulatorAdlOptions="" method_name="" package_name="" scope="Class">
-      <option name="BCName" value="" />
-      <option name="launcherParameters">
-        <LauncherParameters>
-          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
-          <option name="launcherType" value="OSDefault" />
-          <option name="newPlayerInstance" value="false" />
-          <option name="playerPath" value="FlashPlayerDebugger.exe" />
-        </LauncherParameters>
-      </option>
-      <option name="moduleName" value="" />
-      <option name="trusted" value="true" />
       <method />
     </configuration>
     <configuration default="true" type="FlashRunConfigurationType" factoryName="Flash App">
@@ -893,20 +589,23 @@
       <option name="usbDebugPort" value="7936" />
       <method />
     </configuration>
-    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+    <configuration default="true" type="JarApplication" factoryName="JAR Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <envs />
       <method />
     </configuration>
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <module name="" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="HTML_FILE_NAME" />
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <option name="VM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
+    <configuration default="true" type="FlexUnitRunConfigurationType" factoryName="FlexUnit" appDescriptorForEmulator="Android" class_name="" emulatorAdlOptions="" method_name="" package_name="" scope="Class">
+      <option name="BCName" value="" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="FlashPlayerDebugger.exe" />
+        </LauncherParameters>
+      </option>
+      <option name="moduleName" value="" />
+      <option name="trusted" value="true" />
       <method />
     </configuration>
     <configuration default="true" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java">
@@ -919,6 +618,21 @@
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="ENABLE_SWING_INSPECTOR" value="false" />
@@ -965,38 +679,38 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25351000" />
+    <option name="totallyTimeSpent" value="26237000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-4" y="-4" width="1928" height="1054" extended-state="0" />
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="false" />
     <layout>
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.22044729" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3281768" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32890365" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="true" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.47782546" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24973376" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24973376" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32890365" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24473976" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.329602" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3272059" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24973376" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.14020029" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18383405" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.23383084" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24973376" sideWeight="0.5" order="4" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24973376" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32890365" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32890365" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -1021,11 +735,63 @@
     </breakpoint-manager>
     <watches-manager />
   </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../HotwireTests/src/test/java/Test.java">
+    <entry file="file://$PROJECT_DIR$/../HotwireTests/src/main/java/com/purchase/DelegatePurchaseWebApp.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="368" max-vertical-offset="986">
-          <caret line="30" column="14" selection-start-line="30" selection-start-column="14" selection-end-line="30" selection-end-column="14" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="480" max-vertical-offset="840">
+          <caret line="41" column="16" selection-start-line="41" selection-start-column="16" selection-end-line="41" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../HotwireTests/src/main/java/com/purchase/car/CarPurchaseWebApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="135" max-vertical-offset="270">
+          <caret line="11" column="4" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../HotwireTests/src/main/resources/spring-config.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="120" max-vertical-offset="240">
+          <caret line="8" column="39" selection-start-line="8" selection-start-column="39" selection-end-line="8" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../HotwireTests/src/main/resources/spring-application-config.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="120" max-vertical-offset="255">
+          <caret line="8" column="66" selection-start-line="8" selection-start-column="66" selection-end-line="8" selection-end-column="66" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../HotwireTests/src/main/resources/spring-purchase-config.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="135" max-vertical-offset="375">
+          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../HotwireTests/src/main/java/com/purchase/AbstractPurchase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="90" max-vertical-offset="255">
+          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../HotwireTests/src/main/java/com/purchase/PurchaseTemplateWebApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="105" max-vertical-offset="300">
+          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -1060,14 +826,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../HotwireTests/src/test/java/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="391" max-vertical-offset="544">
-          <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../HotwireTests/src/main/java/com/purchase/hotel/HotelPurchaseWebApp.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="510">
@@ -1080,14 +838,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="136" max-vertical-offset="357">
           <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../HotwireTests/src/test/java/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="306" max-vertical-offset="459">
-          <caret line="18" column="32" selection-start-line="18" selection-start-column="32" selection-end-line="18" selection-end-column="32" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1140,14 +890,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="221" max-vertical-offset="493">
           <caret line="13" column="14" selection-start-line="13" selection-start-column="14" selection-end-line="13" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../HotwireTests/src/test/java/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="306" max-vertical-offset="459">
-          <caret line="18" column="34" selection-start-line="18" selection-start-column="34" selection-end-line="18" selection-end-column="34" />
           <folding />
         </state>
       </provider>
@@ -1217,55 +959,55 @@
           <ID>MAVEN</ID>
           <OriginalElement>HotwireTests:HotwireTests:1.0-SNAPSHOT</OriginalElement>
           <nodes>
-            <node x="" y="">WebDriver:WebDriver:jar:1.0-SNAPSHOT/org.seleniumhq.selenium:selenium-java:jar:2.44.0/org.seleniumhq.selenium:selenium-chrome-driver:jar:2.44.0</node>
-            <node x="" y="">WebDriver:WebDriver:jar:1.0-SNAPSHOT/org.seleniumhq.selenium:selenium-java:jar:2.44.0/org.seleniumhq.selenium:selenium-firefox-driver:jar:2.44.0/commons-io:commons-io:jar:2.4</node>
-            <node x="" y="">WebDriver:WebDriver:jar:1.0-SNAPSHOT/org.springframework:spring-context:jar:3.0.5.RELEASE/org.springframework:spring-aop:jar:3.0.5.RELEASE/aopalliance:aopalliance:jar:1.0</node>
-            <node x="" y="">WebDriver:WebDriver:jar:1.0-SNAPSHOT/org.seleniumhq.selenium:selenium-java:jar:2.44.0/org.seleniumhq.selenium:selenium-htmlunit-driver:jar:2.44.0/net.sourceforge.htmlunit:htmlunit:jar:2.15/xalan:xalan:jar:2.7.1</node>
             <node x="" y="">WebDriver:WebDriver:jar:1.0-SNAPSHOT/org.seleniumhq.selenium:selenium-java:jar:2.44.0/org.seleniumhq.selenium:selenium-htmlunit-driver:jar:2.44.0</node>
-            <node x="" y="">WebDriver:WebDriver:jar:1.0-SNAPSHOT/org.seleniumhq.selenium:selenium-java:jar:2.44.0/org.seleniumhq.selenium:selenium-htmlunit-driver:jar:2.44.0/net.sourceforge.htmlunit:htmlunit:jar:2.15/net.sourceforge.cssparser:cssparser:jar:0.9.14/org.w3c.css:sac:jar:1.3</node>
-            <node x="" y="">WebDriver:WebDriver:jar:1.0-SNAPSHOT/org.seleniumhq.selenium:selenium-java:jar:2.44.0/org.seleniumhq.selenium:selenium-htmlunit-driver:jar:2.44.0/net.sourceforge.htmlunit:htmlunit:jar:2.15/org.apache.httpcomponents:httpmime:jar:4.3.3</node>
-            <node x="" y="">WebDriver:WebDriver:jar:1.0-SNAPSHOT/org.seleniumhq.selenium:selenium-java:jar:2.44.0/org.webbitserver:webbit:jar:0.4.14</node>
-            <node x="" y="">WebDriver:WebDriver:jar:1.0-SNAPSHOT/org.seleniumhq.selenium:selenium-java:jar:2.44.0/org.seleniumhq.selenium:selenium-safari-driver:jar:2.44.0</node>
-            <node x="" y="">HotwireTests:HotwireTests:1.0-SNAPSHOT</node>
-            <node x="" y="">WebDriver:WebDriver:jar:1.0-SNAPSHOT/org.seleniumhq.selenium:selenium-java:jar:2.44.0/org.seleniumhq.selenium:selenium-htmlunit-driver:jar:2.44.0/net.sourceforge.htmlunit:htmlunit:jar:2.15</node>
-            <node x="" y="">WebDriver:WebDriver:jar:1.0-SNAPSHOT/org.seleniumhq.selenium:selenium-java:jar:2.44.0/org.seleniumhq.selenium:selenium-htmlunit-driver:jar:2.44.0/net.sourceforge.htmlunit:htmlunit:jar:2.15/net.sourceforge.htmlunit:htmlunit-core-js:jar:2.15</node>
-            <node x="" y="">WebDriver:WebDriver:jar:1.0-SNAPSHOT/org.springframework:spring-context:jar:3.0.5.RELEASE/org.springframework:spring-core:jar:3.0.5.RELEASE/commons-logging:commons-logging:jar:1.1.1</node>
-            <node x="" y="">WebDriver:WebDriver:jar:1.0-SNAPSHOT</node>
-            <node x="" y="">WebDriver:WebDriver:jar:1.0-SNAPSHOT/org.seleniumhq.selenium:selenium-java:jar:2.44.0/org.webbitserver:webbit:jar:0.4.14/io.netty:netty:jar:3.5.2.Final</node>
-            <node x="" y="">WebDriver:WebDriver:jar:1.0-SNAPSHOT/org.seleniumhq.selenium:selenium-java:jar:2.44.0/org.seleniumhq.selenium:selenium-htmlunit-driver:jar:2.44.0/net.sourceforge.htmlunit:htmlunit:jar:2.15/xerces:xercesImpl:jar:2.11.0</node>
-            <node x="" y="">WebDriver:WebDriver:jar:1.0-SNAPSHOT/org.seleniumhq.selenium:selenium-java:jar:2.44.0/org.seleniumhq.selenium:selenium-chrome-driver:jar:2.44.0/org.seleniumhq.selenium:selenium-remote-driver:jar:2.44.0</node>
-            <node x="" y="">WebDriver:WebDriver:jar:1.0-SNAPSHOT/org.seleniumhq.selenium:selenium-java:jar:2.44.0</node>
-            <node x="" y="">WebDriver:WebDriver:jar:1.0-SNAPSHOT/org.seleniumhq.selenium:selenium-java:jar:2.44.0/org.seleniumhq.selenium:selenium-chrome-driver:jar:2.44.0/org.seleniumhq.selenium:selenium-remote-driver:jar:2.44.0/com.google.guava:guava:jar:18.0</node>
-            <node x="" y="">WebDriver:WebDriver:jar:1.0-SNAPSHOT/org.seleniumhq.selenium:selenium-java:jar:2.44.0/org.seleniumhq.selenium:selenium-htmlunit-driver:jar:2.44.0/org.apache.httpcomponents:httpclient:jar:4.3.4/org.apache.httpcomponents:httpcore:jar:4.3.2</node>
-            <node x="" y="">WebDriver:WebDriver:jar:1.0-SNAPSHOT/org.springframework:spring-context:jar:3.0.5.RELEASE/org.springframework:spring-expression:jar:3.0.5.RELEASE</node>
-            <node x="" y="">WebDriver:WebDriver:jar:1.0-SNAPSHOT/org.springframework:spring-context:jar:3.0.5.RELEASE/org.springframework:spring-asm:jar:3.0.5.RELEASE</node>
-            <node x="" y="">WebDriver:WebDriver:jar:1.0-SNAPSHOT/org.seleniumhq.selenium:selenium-java:jar:2.44.0/org.seleniumhq.selenium:selenium-chrome-driver:jar:2.44.0/org.seleniumhq.selenium:selenium-remote-driver:jar:2.44.0/com.google.code.gson:gson:jar:2.3</node>
-            <node x="" y="">WebDriver:WebDriver:jar:1.0-SNAPSHOT/org.seleniumhq.selenium:selenium-java:jar:2.44.0/org.seleniumhq.selenium:selenium-htmlunit-driver:jar:2.44.0/net.sourceforge.htmlunit:htmlunit:jar:2.15/net.sourceforge.nekohtml:nekohtml:jar:1.9.21</node>
-            <node x="" y="">WebDriver:WebDriver:jar:1.0-SNAPSHOT/org.seleniumhq.selenium:selenium-java:jar:2.44.0/org.seleniumhq.selenium:selenium-firefox-driver:jar:2.44.0</node>
-            <node x="" y="">WebDriver:WebDriver:jar:1.0-SNAPSHOT/org.seleniumhq.selenium:selenium-java:jar:2.44.0/org.seleniumhq.selenium:selenium-htmlunit-driver:jar:2.44.0/org.apache.httpcomponents:httpclient:jar:4.3.4</node>
-            <node x="" y="">WebDriver:WebDriver:jar:1.0-SNAPSHOT/org.seleniumhq.selenium:selenium-java:jar:2.44.0/org.seleniumhq.selenium:selenium-htmlunit-driver:jar:2.44.0/net.sourceforge.htmlunit:htmlunit:jar:2.15/xalan:xalan:jar:2.7.1/xalan:serializer:jar:2.7.1</node>
-            <node x="" y="">WebDriver:WebDriver:jar:1.0-SNAPSHOT/org.seleniumhq.selenium:selenium-java:jar:2.44.0/org.seleniumhq.selenium:selenium-ie-driver:jar:2.44.0/net.java.dev.jna:platform:jar:3.4.0</node>
-            <node x="" y="">WebDriver:WebDriver:jar:1.0-SNAPSHOT/org.seleniumhq.selenium:selenium-java:jar:2.44.0/org.seleniumhq.selenium:selenium-htmlunit-driver:jar:2.44.0/net.sourceforge.htmlunit:htmlunit:jar:2.15/commons-collections:commons-collections:jar:3.2.1</node>
-            <node x="" y="">WebDriver:WebDriver:jar:1.0-SNAPSHOT/org.seleniumhq.selenium:selenium-java:jar:2.44.0/org.seleniumhq.selenium:selenium-chrome-driver:jar:2.44.0/org.seleniumhq.selenium:selenium-remote-driver:jar:2.44.0/org.seleniumhq.selenium:selenium-api:jar:2.44.0</node>
             <node x="" y="">WebDriver:WebDriver:jar:1.0-SNAPSHOT/org.seleniumhq.selenium:selenium-java:jar:2.44.0/org.seleniumhq.selenium:selenium-ie-driver:jar:2.44.0/net.java.dev.jna:jna:jar:3.4.0</node>
-            <node x="" y="">WebDriver:WebDriver:jar:1.0-SNAPSHOT/org.springframework:spring-context-support:jar:3.0.5.RELEASE</node>
-            <node x="" y="">WebDriver:WebDriver:jar:1.0-SNAPSHOT/org.seleniumhq.selenium:selenium-java:jar:2.44.0/org.seleniumhq.selenium:selenium-chrome-driver:jar:2.44.0/org.seleniumhq.selenium:selenium-remote-driver:jar:2.44.0/cglib:cglib-nodep:jar:2.1_3</node>
-            <node x="" y="">WebDriver:WebDriver:jar:1.0-SNAPSHOT/org.seleniumhq.selenium:selenium-java:jar:2.44.0/org.seleniumhq.selenium:selenium-htmlunit-driver:jar:2.44.0/net.sourceforge.htmlunit:htmlunit:jar:2.15/org.eclipse.jetty:jetty-websocket:jar:8.1.15.v20140411/org.eclipse.jetty:jetty-io:jar:8.1.15.v20140411</node>
-            <node x="" y="">WebDriver:WebDriver:jar:1.0-SNAPSHOT/org.seleniumhq.selenium:selenium-java:jar:2.44.0/org.seleniumhq.selenium:selenium-firefox-driver:jar:2.44.0/org.apache.commons:commons-exec:jar:1.1</node>
-            <node x="" y="">WebDriver:WebDriver:jar:1.0-SNAPSHOT/org.springframework:spring-beans:jar:3.0.5.RELEASE</node>
-            <node x="" y="">WebDriver:WebDriver:jar:1.0-SNAPSHOT/org.springframework:spring-context:jar:3.0.5.RELEASE</node>
-            <node x="" y="">WebDriver:WebDriver:jar:1.0-SNAPSHOT/org.springframework:spring-context:jar:3.0.5.RELEASE/org.springframework:spring-aop:jar:3.0.5.RELEASE</node>
-            <node x="" y="">WebDriver:WebDriver:jar:1.0-SNAPSHOT/org.seleniumhq.selenium:selenium-java:jar:2.44.0/org.seleniumhq.selenium:selenium-htmlunit-driver:jar:2.44.0/net.sourceforge.htmlunit:htmlunit:jar:2.15/org.apache.commons:commons-lang3:jar:3.3.2</node>
-            <node x="" y="">WebDriver:WebDriver:jar:1.0-SNAPSHOT/org.seleniumhq.selenium:selenium-java:jar:2.44.0/org.seleniumhq.selenium:selenium-ie-driver:jar:2.44.0</node>
+            <node x="" y="">WebDriver:WebDriver:jar:1.0-SNAPSHOT/org.seleniumhq.selenium:selenium-java:jar:2.44.0/org.seleniumhq.selenium:selenium-ie-driver:jar:2.44.0/net.java.dev.jna:platform:jar:3.4.0</node>
+            <node x="" y="">WebDriver:WebDriver:jar:1.0-SNAPSHOT/org.seleniumhq.selenium:selenium-java:jar:2.44.0/org.seleniumhq.selenium:selenium-chrome-driver:jar:2.44.0/org.seleniumhq.selenium:selenium-remote-driver:jar:2.44.0</node>
+            <node x="" y="">WebDriver:WebDriver:jar:1.0-SNAPSHOT/org.seleniumhq.selenium:selenium-java:jar:2.44.0/org.seleniumhq.selenium:selenium-chrome-driver:jar:2.44.0/org.seleniumhq.selenium:selenium-remote-driver:jar:2.44.0/org.seleniumhq.selenium:selenium-api:jar:2.44.0</node>
             <node x="" y="">WebDriver:WebDriver:jar:1.0-SNAPSHOT/org.seleniumhq.selenium:selenium-java:jar:2.44.0/org.seleniumhq.selenium:selenium-htmlunit-driver:jar:2.44.0/net.sourceforge.htmlunit:htmlunit:jar:2.15/xerces:xercesImpl:jar:2.11.0/xml-apis:xml-apis:jar:1.4.01</node>
+            <node x="" y="">WebDriver:WebDriver:jar:1.0-SNAPSHOT/org.springframework:spring-context:jar:3.0.5.RELEASE</node>
+            <node x="" y="">WebDriver:WebDriver:jar:1.0-SNAPSHOT/org.seleniumhq.selenium:selenium-java:jar:2.44.0/org.seleniumhq.selenium:selenium-ie-driver:jar:2.44.0</node>
+            <node x="" y="">WebDriver:WebDriver:jar:1.0-SNAPSHOT/org.springframework:spring-context:jar:3.0.5.RELEASE/org.springframework:spring-expression:jar:3.0.5.RELEASE</node>
             <node x="" y="">WebDriver:WebDriver:jar:1.0-SNAPSHOT/org.seleniumhq.selenium:selenium-java:jar:2.44.0/org.seleniumhq.selenium:selenium-htmlunit-driver:jar:2.44.0/net.sourceforge.htmlunit:htmlunit:jar:2.15/net.sourceforge.cssparser:cssparser:jar:0.9.14</node>
             <node x="" y="">WebDriver:WebDriver:jar:1.0-SNAPSHOT/org.seleniumhq.selenium:selenium-java:jar:2.44.0/org.seleniumhq.selenium:selenium-support:jar:2.44.0</node>
-            <node x="" y="">DomesticPageObject:DomesticPageObject:jar:1.0-SNAPSHOT</node>
-            <node x="" y="">WebDriver:WebDriver:jar:1.0-SNAPSHOT/org.seleniumhq.selenium:selenium-java:jar:2.44.0/org.seleniumhq.selenium:selenium-htmlunit-driver:jar:2.44.0/net.sourceforge.htmlunit:htmlunit:jar:2.15/org.eclipse.jetty:jetty-websocket:jar:8.1.15.v20140411</node>
-            <node x="" y="">WebDriver:WebDriver:jar:1.0-SNAPSHOT/org.seleniumhq.selenium:selenium-java:jar:2.44.0/org.seleniumhq.selenium:selenium-htmlunit-driver:jar:2.44.0/net.sourceforge.htmlunit:htmlunit:jar:2.15/org.eclipse.jetty:jetty-websocket:jar:8.1.15.v20140411/org.eclipse.jetty:jetty-util:jar:8.1.15.v20140411</node>
-            <node x="" y="">WebDriver:WebDriver:jar:1.0-SNAPSHOT/org.springframework:spring-context:jar:3.0.5.RELEASE/org.springframework:spring-core:jar:3.0.5.RELEASE</node>
             <node x="" y="">WebDriver:WebDriver:jar:1.0-SNAPSHOT/org.seleniumhq.selenium:selenium-java:jar:2.44.0/org.seleniumhq.selenium:selenium-htmlunit-driver:jar:2.44.0/net.sourceforge.htmlunit:htmlunit:jar:2.15/org.eclipse.jetty:jetty-websocket:jar:8.1.15.v20140411/org.eclipse.jetty:jetty-http:jar:8.1.15.v20140411</node>
+            <node x="" y="">WebDriver:WebDriver:jar:1.0-SNAPSHOT/org.seleniumhq.selenium:selenium-java:jar:2.44.0/org.seleniumhq.selenium:selenium-htmlunit-driver:jar:2.44.0/net.sourceforge.htmlunit:htmlunit:jar:2.15/net.sourceforge.htmlunit:htmlunit-core-js:jar:2.15</node>
             <node x="" y="">WebDriver:WebDriver:jar:1.0-SNAPSHOT/org.seleniumhq.selenium:selenium-java:jar:2.44.0/org.seleniumhq.selenium:selenium-htmlunit-driver:jar:2.44.0/net.sourceforge.htmlunit:htmlunit:jar:2.15/commons-codec:commons-codec:jar:1.9</node>
+            <node x="" y="">WebDriver:WebDriver:jar:1.0-SNAPSHOT/org.seleniumhq.selenium:selenium-java:jar:2.44.0/org.seleniumhq.selenium:selenium-chrome-driver:jar:2.44.0</node>
+            <node x="" y="">WebDriver:WebDriver:jar:1.0-SNAPSHOT/org.seleniumhq.selenium:selenium-java:jar:2.44.0/org.seleniumhq.selenium:selenium-htmlunit-driver:jar:2.44.0/net.sourceforge.htmlunit:htmlunit:jar:2.15/org.eclipse.jetty:jetty-websocket:jar:8.1.15.v20140411/org.eclipse.jetty:jetty-io:jar:8.1.15.v20140411</node>
+            <node x="" y="">WebDriver:WebDriver:jar:1.0-SNAPSHOT/org.seleniumhq.selenium:selenium-java:jar:2.44.0</node>
+            <node x="" y="">WebDriver:WebDriver:jar:1.0-SNAPSHOT/org.seleniumhq.selenium:selenium-java:jar:2.44.0/org.webbitserver:webbit:jar:0.4.14</node>
+            <node x="" y="">WebDriver:WebDriver:jar:1.0-SNAPSHOT/org.seleniumhq.selenium:selenium-java:jar:2.44.0/org.seleniumhq.selenium:selenium-safari-driver:jar:2.44.0</node>
+            <node x="" y="">WebDriver:WebDriver:jar:1.0-SNAPSHOT/org.seleniumhq.selenium:selenium-java:jar:2.44.0/org.seleniumhq.selenium:selenium-htmlunit-driver:jar:2.44.0/net.sourceforge.htmlunit:htmlunit:jar:2.15/xalan:xalan:jar:2.7.1</node>
+            <node x="" y="">WebDriver:WebDriver:jar:1.0-SNAPSHOT/org.seleniumhq.selenium:selenium-java:jar:2.44.0/org.seleniumhq.selenium:selenium-htmlunit-driver:jar:2.44.0/net.sourceforge.htmlunit:htmlunit:jar:2.15/org.apache.httpcomponents:httpmime:jar:4.3.3</node>
+            <node x="" y="">WebDriver:WebDriver:jar:1.0-SNAPSHOT/org.seleniumhq.selenium:selenium-java:jar:2.44.0/org.webbitserver:webbit:jar:0.4.14/io.netty:netty:jar:3.5.2.Final</node>
+            <node x="" y="">WebDriver:WebDriver:jar:1.0-SNAPSHOT/org.seleniumhq.selenium:selenium-java:jar:2.44.0/org.seleniumhq.selenium:selenium-htmlunit-driver:jar:2.44.0/net.sourceforge.htmlunit:htmlunit:jar:2.15/org.eclipse.jetty:jetty-websocket:jar:8.1.15.v20140411</node>
+            <node x="" y="">WebDriver:WebDriver:jar:1.0-SNAPSHOT/org.seleniumhq.selenium:selenium-java:jar:2.44.0/org.seleniumhq.selenium:selenium-htmlunit-driver:jar:2.44.0/net.sourceforge.htmlunit:htmlunit:jar:2.15</node>
+            <node x="" y="">WebDriver:WebDriver:jar:1.0-SNAPSHOT/org.seleniumhq.selenium:selenium-java:jar:2.44.0/org.seleniumhq.selenium:selenium-htmlunit-driver:jar:2.44.0/org.apache.httpcomponents:httpclient:jar:4.3.4</node>
+            <node x="" y="">WebDriver:WebDriver:jar:1.0-SNAPSHOT/org.springframework:spring-context-support:jar:3.0.5.RELEASE</node>
+            <node x="" y="">WebDriver:WebDriver:jar:1.0-SNAPSHOT/org.seleniumhq.selenium:selenium-java:jar:2.44.0/org.seleniumhq.selenium:selenium-firefox-driver:jar:2.44.0/org.apache.commons:commons-exec:jar:1.1</node>
+            <node x="" y="">WebDriver:WebDriver:jar:1.0-SNAPSHOT/org.seleniumhq.selenium:selenium-java:jar:2.44.0/org.seleniumhq.selenium:selenium-htmlunit-driver:jar:2.44.0/org.apache.httpcomponents:httpclient:jar:4.3.4/org.apache.httpcomponents:httpcore:jar:4.3.2</node>
+            <node x="" y="">WebDriver:WebDriver:jar:1.0-SNAPSHOT/org.seleniumhq.selenium:selenium-java:jar:2.44.0/org.seleniumhq.selenium:selenium-htmlunit-driver:jar:2.44.0/net.sourceforge.htmlunit:htmlunit:jar:2.15/net.sourceforge.nekohtml:nekohtml:jar:1.9.21</node>
+            <node x="" y="">WebDriver:WebDriver:jar:1.0-SNAPSHOT/org.springframework:spring-context:jar:3.0.5.RELEASE/org.springframework:spring-aop:jar:3.0.5.RELEASE/aopalliance:aopalliance:jar:1.0</node>
+            <node x="" y="">WebDriver:WebDriver:jar:1.0-SNAPSHOT</node>
+            <node x="" y="">HotwireTests:HotwireTests:1.0-SNAPSHOT</node>
+            <node x="" y="">WebDriver:WebDriver:jar:1.0-SNAPSHOT/org.seleniumhq.selenium:selenium-java:jar:2.44.0/org.seleniumhq.selenium:selenium-chrome-driver:jar:2.44.0/org.seleniumhq.selenium:selenium-remote-driver:jar:2.44.0/com.google.code.gson:gson:jar:2.3</node>
+            <node x="" y="">WebDriver:WebDriver:jar:1.0-SNAPSHOT/org.seleniumhq.selenium:selenium-java:jar:2.44.0/org.seleniumhq.selenium:selenium-firefox-driver:jar:2.44.0/commons-io:commons-io:jar:2.4</node>
+            <node x="" y="">WebDriver:WebDriver:jar:1.0-SNAPSHOT/org.seleniumhq.selenium:selenium-java:jar:2.44.0/org.seleniumhq.selenium:selenium-chrome-driver:jar:2.44.0/org.seleniumhq.selenium:selenium-remote-driver:jar:2.44.0/com.google.guava:guava:jar:18.0</node>
+            <node x="" y="">DomesticPageObject:DomesticPageObject:jar:1.0-SNAPSHOT</node>
+            <node x="" y="">WebDriver:WebDriver:jar:1.0-SNAPSHOT/org.springframework:spring-context:jar:3.0.5.RELEASE/org.springframework:spring-core:jar:3.0.5.RELEASE</node>
+            <node x="" y="">WebDriver:WebDriver:jar:1.0-SNAPSHOT/org.springframework:spring-context:jar:3.0.5.RELEASE/org.springframework:spring-asm:jar:3.0.5.RELEASE</node>
+            <node x="" y="">WebDriver:WebDriver:jar:1.0-SNAPSHOT/org.springframework:spring-context:jar:3.0.5.RELEASE/org.springframework:spring-core:jar:3.0.5.RELEASE/commons-logging:commons-logging:jar:1.1.1</node>
+            <node x="" y="">WebDriver:WebDriver:jar:1.0-SNAPSHOT/org.seleniumhq.selenium:selenium-java:jar:2.44.0/org.seleniumhq.selenium:selenium-chrome-driver:jar:2.44.0/org.seleniumhq.selenium:selenium-remote-driver:jar:2.44.0/cglib:cglib-nodep:jar:2.1_3</node>
+            <node x="" y="">WebDriver:WebDriver:jar:1.0-SNAPSHOT/org.seleniumhq.selenium:selenium-java:jar:2.44.0/org.seleniumhq.selenium:selenium-htmlunit-driver:jar:2.44.0/net.sourceforge.htmlunit:htmlunit:jar:2.15/xerces:xercesImpl:jar:2.11.0</node>
+            <node x="" y="">WebDriver:WebDriver:jar:1.0-SNAPSHOT/org.seleniumhq.selenium:selenium-java:jar:2.44.0/org.seleniumhq.selenium:selenium-htmlunit-driver:jar:2.44.0/net.sourceforge.htmlunit:htmlunit:jar:2.15/org.apache.commons:commons-lang3:jar:3.3.2</node>
+            <node x="" y="">WebDriver:WebDriver:jar:1.0-SNAPSHOT/org.seleniumhq.selenium:selenium-java:jar:2.44.0/org.seleniumhq.selenium:selenium-htmlunit-driver:jar:2.44.0/net.sourceforge.htmlunit:htmlunit:jar:2.15/org.eclipse.jetty:jetty-websocket:jar:8.1.15.v20140411/org.eclipse.jetty:jetty-util:jar:8.1.15.v20140411</node>
+            <node x="" y="">WebDriver:WebDriver:jar:1.0-SNAPSHOT/org.springframework:spring-beans:jar:3.0.5.RELEASE</node>
+            <node x="" y="">WebDriver:WebDriver:jar:1.0-SNAPSHOT/org.seleniumhq.selenium:selenium-java:jar:2.44.0/org.seleniumhq.selenium:selenium-htmlunit-driver:jar:2.44.0/net.sourceforge.htmlunit:htmlunit:jar:2.15/net.sourceforge.cssparser:cssparser:jar:0.9.14/org.w3c.css:sac:jar:1.3</node>
+            <node x="" y="">WebDriver:WebDriver:jar:1.0-SNAPSHOT/org.seleniumhq.selenium:selenium-java:jar:2.44.0/org.seleniumhq.selenium:selenium-firefox-driver:jar:2.44.0</node>
+            <node x="" y="">WebDriver:WebDriver:jar:1.0-SNAPSHOT/org.seleniumhq.selenium:selenium-java:jar:2.44.0/org.seleniumhq.selenium:selenium-htmlunit-driver:jar:2.44.0/net.sourceforge.htmlunit:htmlunit:jar:2.15/commons-collections:commons-collections:jar:3.2.1</node>
+            <node x="" y="">WebDriver:WebDriver:jar:1.0-SNAPSHOT/org.springframework:spring-context:jar:3.0.5.RELEASE/org.springframework:spring-aop:jar:3.0.5.RELEASE</node>
+            <node x="" y="">WebDriver:WebDriver:jar:1.0-SNAPSHOT/org.seleniumhq.selenium:selenium-java:jar:2.44.0/org.seleniumhq.selenium:selenium-htmlunit-driver:jar:2.44.0/net.sourceforge.htmlunit:htmlunit:jar:2.15/xalan:xalan:jar:2.7.1/xalan:serializer:jar:2.7.1</node>
           </nodes>
           <notes />
           <edges />
@@ -1296,20 +1038,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="901">
           <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="12" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-test/3.0.5.RELEASE/spring-test-3.0.5.RELEASE.jar!/org/springframework/test/context/TestContext.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.8579336" vertical-offset="2374" max-vertical-offset="2941">
-          <caret line="201" column="0" selection-start-line="201" selection-start-column="0" selection-end-line="201" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/3.0.5.RELEASE/spring-beans-3.0.5.RELEASE.jar!/org/springframework/beans/factory/support/SimpleInstantiationStrategy.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3493724" vertical-offset="972" max-vertical-offset="1598">
-          <caret line="87" column="18" selection-start-line="87" selection-start-column="18" selection-end-line="87" selection-end-column="18" />
         </state>
       </provider>
     </entry>
@@ -1415,14 +1143,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../HotwireTests/src/main/java/com/purchase/AbstractPurchaseWebApp.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="272">
-          <caret line="5" column="61" selection-start-line="5" selection-start-column="61" selection-end-line="5" selection-end-column="61" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../HotwireTests/src/main/java/com/purchase/AbstractPurchase.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="289">
@@ -1439,37 +1159,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../HotwireTests/src/test/java/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="368" max-vertical-offset="986">
-          <caret line="30" column="14" selection-start-line="30" selection-start-column="14" selection-end-line="30" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../HotwireTests/src/main/java/com/purchase/DelegatePurchaseWebApp.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="510" max-vertical-offset="1173">
           <caret line="41" column="16" selection-start-line="41" selection-start-column="16" selection-end-line="41" selection-end-column="16" />
-          <folding>
-            <element signature="e#413#414#0" expanded="false" />
-            <element signature="e#455#456#0" expanded="false" />
-            <element signature="e#655#656#0" expanded="false" />
-            <element signature="e#695#696#0" expanded="false" />
-            <element signature="e#879#880#0" expanded="false" />
-            <element signature="e#919#920#0" expanded="false" />
-            <element signature="e#955#956#0" expanded="false" />
-            <element signature="e#987#988#0" expanded="false" />
-            <element signature="e#1124#1125#0" expanded="false" />
-            <element signature="e#1169#1170#0" expanded="false" />
-          </folding>
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../HotwireTests/src/main/java/com/purchase/AbstractPurchaseWebApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="272">
+          <caret line="5" column="61" selection-start-line="5" selection-start-column="61" selection-end-line="5" selection-end-column="61" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../HotwireTests/src/main/java/com/purchase/hotel/HotelPurchaseWebApp.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.13568985" vertical-offset="0" max-vertical-offset="877">
-          <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+        <state vertical-scroll-proportion="0.13530928" vertical-offset="0" max-vertical-offset="776">
+          <caret line="7" column="31" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
           <folding />
         </state>
       </provider>
